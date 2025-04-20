@@ -1,0 +1,86 @@
+rank,country_code,country,gold,silver,bronze
+1,USA,United States,46,28,30
+2,CHN,People's Republic of China,38,31,22
+3,GBR,Great Britain,29,17,19
+4,RUS,Russian Federation,20,20,27
+5,KOR,Republic of Korea,13,9,8
+6,GER,Germany,11,20,13
+7,FRA,France,11,11,13
+8,AUS,Australia,8,15,12
+9,ITA,Italy,8,9,11
+10,HUN,Hungary,8,4,6
+11,JPN,Japan,7,14,17
+12,IRI,Islamic Republic of Iran,7,5,1
+13,NZL,New Zealand,6,2,5
+14,UKR,Ukraine,5,4,10
+15,CUB,Cuba,5,3,7
+16,ESP,Spain,4,10,4
+17,JAM,Jamaica,4,5,3
+18,CZE,Czech Republic,4,3,4
+19,RSA,South Africa,4,1,1
+20,PRK,Democratic People's Republic of Korea,4,0,2
+21,BRA,Brazil,3,5,9
+22,POL,Poland,3,2,6
+23,ETH,Ethiopia,3,2,3
+24,KAZ,Kazakhstan,3,1,7
+25,CRO,Croatia,3,1,2
+26,CAN,Canada,2,5,11
+27,BLR,Belarus,2,5,3
+28,KEN,Kenya,2,4,7
+29,DEN,Denmark,2,4,3
+30,ROU,Romania,2,4,1
+31,AZE,Azerbaijan,2,2,5
+32,SUI,Switzerland,2,2,0
+33,NOR,Norway,2,1,1
+34,LTU,Lithuania,2,0,3
+35,TUN,Tunisia,2,0,1
+36,SWE,Sweden,1,4,3
+37,COL,Colombia,1,3,5
+38,MEX,Mexico,1,3,4
+39,GEO,Georgia,1,2,3
+40,IRL,Ireland,1,1,4
+41,ARG,Argentina,1,1,2
+42,SRB,Serbia,1,1,2
+43,SLO,Slovenia,1,1,2
+44,TTO,Trinidad and Tobago,1,1,2
+45,TUR,Turkey,1,1,1
+46,DOM,Dominican Republic,1,1,0
+47,TPE,Chinese Taipei,1,0,1
+48,LAT,Latvia,1,0,1
+49,ALG,Algeria,1,0,0
+50,BRN,Bahrain,1,0,0
+51,GRN,Grenada,1,0,0
+52,BAH,The Bahamas,1,0,0
+53,UGA,Uganda,1,0,0
+54,VEN,Venezuela,1,0,0
+55,EGY,Egypt,0,3,1
+56,IND,India,0,2,4
+57,MGL,Mongolia,0,2,3
+58,THA,Thailand,0,2,2
+59,BUL,Bulgaria,0,2,1
+60,FIN,Finland,0,2,1
+61,INA,Indonesia,0,2,1
+62,SVK,Slovakia,0,1,3
+63,BEL,Belgium,0,1,2
+64,ARM,Armenia,0,1,1
+65,EST,Estonia,0,1,1
+66,MAS,Malaysia,0,1,1
+67,PUR,Puerto Rico,0,1,1
+68,BOT,Botswana,0,1,0
+69,CYP,Cyprus,0,1,0
+70,GAB,Gabon,0,1,0
+71,GUA,Guatemala,0,1,0
+72,MNE,Montenegro,0,1,0
+73,POR,Portugal,0,1,0
+74,UZB,Uzbekistan,0,0,3
+75,GRE,Greece,0,0,2
+76,QAT,Qatar,0,0,2
+77,SGP,Singapore,0,0,2
+78,AFG,Afghanistan,0,0,1
+79,CMR,Cameroon,0,0,1
+80,HKG,"Hong Kong, China",0,0,1
+81,KSA,Kingdom of Saudi Arabia,0,0,1
+82,KUW,Kuwait,0,0,1
+83,MAR,Morocco,0,0,1
+84,TJK,Tajikistan,0,0,1
+85,VIE,Vietnam,0,0,1
